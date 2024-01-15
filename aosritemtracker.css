@@ -1,0 +1,117 @@
+body {
+    background-color: #0a0a0a;
+}
+
+img {
+    position: absolute;
+}
+
+/* Filter class for unselected items. */
+.grayscale {
+    filter: grayscale(90%) opacity(70%);
+}
+
+/* All IDs below this point are used to align images (background and icons). */
+
+#background {
+    left: 0px;
+    top: 0px;
+}
+
+/* GREY SOULS */
+
+#grave-keeper {
+    left: 15px;
+    top: 15px;
+}
+
+#malphas {
+    left: 111px;
+    top: 15px;
+}
+
+#skeleton-blaze {
+    left: 15px;
+    top: 111px;
+}
+
+#kicker-skeleton {
+    left: 111px;
+    top: 111px;
+}
+
+#hippogryph {
+    left: 15px;
+    top: 207px;
+}
+
+#galamoth {
+    left: 111px;
+    top: 207px;
+}
+
+/* YELLOW SOULS */
+
+#undine {
+    left: 207px;
+    top: 15px;
+}
+
+#skula {
+    left: 303px;
+    top: 15px;
+}
+
+/* BLUE SOULS */
+
+#flying-armor {
+    left: 207px;
+    top: 111px;
+}
+
+#rush-soul {
+    left: 303px;
+    top: 111px;
+}
+
+#giant-bat {
+    left: 207px;
+    top: 207px;
+}
+
+#black-panther {
+    left: 303px;
+    top: 207px;
+}
+
+/* BOOKS & SOULS */
+
+#red-book {
+    left: 399px;
+    top: 15px;
+}
+
+#red-soul {
+    left: 431px;
+    top: 47px;
+}
+
+#blue-book {
+    left: 399px;
+    top: 111px;
+}
+
+#blue-soul {
+    left: 431px;
+    top: 143px;
+}
+
+#yellow-book {
+    left: 399px;
+    top: 207px;
+}
+
+#yellow-soul {
+    left: 431px;
+    top: 239px;
+}
